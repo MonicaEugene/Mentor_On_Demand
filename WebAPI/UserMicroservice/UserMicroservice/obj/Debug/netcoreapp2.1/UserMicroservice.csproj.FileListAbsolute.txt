@@ -1,0 +1,15 @@
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\obj\Debug\netcoreapp2.1\UserMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\obj\Debug\netcoreapp2.1\UserMicroservice.AssemblyInfoInputs.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\obj\Debug\netcoreapp2.1\UserMicroservice.AssemblyInfo.cs
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\bin\Debug\netcoreapp2.1\UserMicroservice.deps.json
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\bin\Debug\netcoreapp2.1\UserMicroservice.runtimeconfig.json
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\bin\Debug\netcoreapp2.1\UserMicroservice.runtimeconfig.dev.json
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\bin\Debug\netcoreapp2.1\UserMicroservice.dll
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\bin\Debug\netcoreapp2.1\UserMicroservice.pdb
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\obj\Debug\netcoreapp2.1\UserMicroservice.csprojAssemblyReference.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\obj\Debug\netcoreapp2.1\UserMicroservice.RazorAssemblyInfo.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\obj\Debug\netcoreapp2.1\UserMicroservice.RazorAssemblyInfo.cs
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\obj\Debug\netcoreapp2.1\UserMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\obj\Debug\netcoreapp2.1\UserMicroservice.dll
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\obj\Debug\netcoreapp2.1\UserMicroservice.pdb
+C:\Users\802469\Desktop\Project\Certification\WebAPI\UserMicroservice\UserMicroservice\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

@@ -1,0 +1,55 @@
+<div
+    style="top: 0;left: 0;bottom: 0;right: 0;height:100%;width:100;background-image: url(./assets/fullbg.jpg);background-repeat: no-repeat;background-size: cover;">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-dark" style="background-color: darkslategrey;">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" routerLink="">
+                        <h5>Mentor On Demand</h5>
+                    </a>
+                </li>
+            </ul>
+
+            <ul class="navbar-nav ml-auto">
+                <li>
+                    <button class="btn" style="background-color: darkslategrey; color: white;" (click)="logout()">Logout</button>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="jumbotron jumbotron-fluid user-card">
+        <div class="container">
+            <h3>
+                Admin
+            </h3>
+        </div>
+    </div>
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4" *ngFor="let s of skills"><br />
+                    <div class="flip-card">
+                        <div class="flip-card-inner">
+                            <div class="flip-card-front" style="background-color: darkslategrey; color: white;">
+                                <div class="card-body">
+                                    <br><br><br><br>
+                                    <h1 style="text-align: center;">{{s.sName}} </h1>
+                                </div>
+                            </div>
+                            <div class="flip-card-back" style="color: darkslategrey;">
+                                <div class="card-body">
+                                    <br><br><br><br>
+                                    <h5>Skill ID: {{s.id}} </h5>
+                                    <h5>Name: {{s.sName}} </h5>
+                                    <h5>Prerequisites: {{s.prerequisites}}</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <br><br><br>
+</div>

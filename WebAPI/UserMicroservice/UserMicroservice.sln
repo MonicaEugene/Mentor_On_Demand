@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserMicroservice", "UserMicroservice\UserMicroservice.csproj", "{E759CB00-251B-4142-A634-11C344CF0278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminSkillTest", "AdminSkillTest\AdminSkillTest.csproj", "{07C01185-106B-4BF1-A3AB-8E8499C89D6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E759CB00-251B-4142-A634-11C344CF0278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E759CB00-251B-4142-A634-11C344CF0278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E759CB00-251B-4142-A634-11C344CF0278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E759CB00-251B-4142-A634-11C344CF0278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C01185-106B-4BF1-A3AB-8E8499C89D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C01185-106B-4BF1-A3AB-8E8499C89D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C01185-106B-4BF1-A3AB-8E8499C89D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C01185-106B-4BF1-A3AB-8E8499C89D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D7C5FF4-C48E-41B5-8E16-CF6689B0235B}
+	EndGlobalSection
+EndGlobal

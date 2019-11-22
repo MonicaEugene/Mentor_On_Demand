@@ -1,0 +1,14 @@
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\obj\Debug\netcoreapp2.1\jwtAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\obj\Debug\netcoreapp2.1\jwtAuthentication.AssemblyInfoInputs.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\obj\Debug\netcoreapp2.1\jwtAuthentication.AssemblyInfo.cs
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\bin\Debug\netcoreapp2.1\jwtAuthentication.deps.json
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\bin\Debug\netcoreapp2.1\jwtAuthentication.runtimeconfig.json
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\bin\Debug\netcoreapp2.1\jwtAuthentication.runtimeconfig.dev.json
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\bin\Debug\netcoreapp2.1\jwtAuthentication.dll
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\obj\Debug\netcoreapp2.1\jwtAuthentication.csprojAssemblyReference.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\obj\Debug\netcoreapp2.1\jwtAuthentication.RazorAssemblyInfo.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\obj\Debug\netcoreapp2.1\jwtAuthentication.RazorAssemblyInfo.cs
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\obj\Debug\netcoreapp2.1\jwtAuthentication.RazorTargetAssemblyInfo.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\bin\Debug\netcoreapp2.1\jwtAuthentication.pdb
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\obj\Debug\netcoreapp2.1\jwtAuthentication.dll
+C:\Users\802469\Desktop\Project\Certification\WebAPI\jwtAuthentication\jwtAuthentication\obj\Debug\netcoreapp2.1\jwtAuthentication.pdb

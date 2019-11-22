@@ -1,0 +1,14 @@
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\obj\Debug\netcoreapp2.1\MentorMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\obj\Debug\netcoreapp2.1\MentorMicroservice.AssemblyInfoInputs.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\obj\Debug\netcoreapp2.1\MentorMicroservice.AssemblyInfo.cs
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\bin\Debug\netcoreapp2.1\MentorMicroservice.deps.json
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\bin\Debug\netcoreapp2.1\MentorMicroservice.runtimeconfig.json
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\bin\Debug\netcoreapp2.1\MentorMicroservice.runtimeconfig.dev.json
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\bin\Debug\netcoreapp2.1\MentorMicroservice.dll
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\bin\Debug\netcoreapp2.1\MentorMicroservice.pdb
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\obj\Debug\netcoreapp2.1\MentorMicroservice.csprojAssemblyReference.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\obj\Debug\netcoreapp2.1\MentorMicroservice.RazorAssemblyInfo.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\obj\Debug\netcoreapp2.1\MentorMicroservice.RazorAssemblyInfo.cs
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\obj\Debug\netcoreapp2.1\MentorMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\obj\Debug\netcoreapp2.1\MentorMicroservice.dll
+C:\Users\802469\Desktop\Project\Certification\WebAPI\MentorMicroservice\MentorMicroservice\obj\Debug\netcoreapp2.1\MentorMicroservice.pdb

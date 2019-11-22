@@ -1,0 +1,129 @@
+<header>
+    <nav class="navbar navbar-expand-sm navbar-dark" style="background-color: darkslategrey;">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" routerLink="">
+                    <h5>Mentor On Demand</h5>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<div class="container login-form-1">
+    <div class="board-inner">
+        <ul class="nav nav-tabs nav-justified" id="myTab">
+
+            <li class="nav-item">
+                <a class="nav-link active" href="#user" data-toggle="tab">
+
+                    <i class="material-icons">
+                        assignment
+                    </i>
+                    <p>User</p>
+
+                </a></li>
+
+            <li class="nav-item"><a class="nav-link" href="#mentor" data-toggle="tab">
+
+                    <i class="material-icons">
+                        assignment_turned_in
+                    </i>
+                    <p>Mentor</p>
+
+                </a>
+            </li>
+            <li class="nav-item"><a class="nav-link" href="#admin" data-toggle="tab">
+
+                    <i class="material-icons">
+                        announcement
+                    </i>
+                    <p>Admin</p>
+                </a>
+            </li>
+
+        </ul>
+    </div>
+    <div class="tab-content">
+        <div id="user" class="tab-pane fade in active">
+            <br><br>
+                <h3>User Login</h3>
+                <form (ngSubmit)="onSubmitUser(username.value, password.value)" #loginform="ngForm">
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="username" name="username" placeholder="Your Email *"
+                            ngModel #username="ngModel" />
+                        <!-- <div class="alert alert-danger" *ngIf="username.touched && username.errors.required && username.value!=null">
+                        Username is required
+                    </div> -->
+                    </div>
+                    <div class="form-group">
+                        <input type="password" class="form-control" id="password" name="password"
+                            placeholder="Your Password *" ngModel #password="ngModel" />
+                        <!-- <div class="alert alert-danger" *ngIf="password.touched && password.errors.required">
+                        Password is required
+                    </div> -->
+                    </div>
+                    <span>
+                        <button type="submit" class="btn int" style="background-color: darkslategrey; color: white;">Login</button>
+                        New here? <a routerLink="/UserRegister">Sign up</a>
+                    </span>
+                    <br />
+                    <span class="colo" style="color: red;">{{user.message}}</span>
+                </form>
+        </div>
+        <div id="mentor" class="tab-pane fade">
+            <br><br>
+                <h3>Mentor Login</h3>
+                <form (ngSubmit)="onSubmitMentor(mentorusername.value, mentorpassword.value)" #loginform="ngForm">
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="mentorusername" name="mentorusername" placeholder="Your Email *"
+                            ngModel #mentorusername="ngModel" />
+                        <!-- <div class="alert alert-danger" *ngIf="username.touched && username.errors.required && username.value!=null">
+                        Username is required
+                    </div> -->
+                    </div>
+                    <div class="form-group">
+                        <input type="password" class="form-control" id="mentorpassword" name="mentorpassword"
+                            placeholder="Your Password *" ngModel #mentorpassword="ngModel" />
+                        <!-- <div class="alert alert-danger" *ngIf="password.touched && password.errors.required">
+                        Password is required
+                    </div> -->
+                    </div>
+                    <span>
+                        <button type="submit" class="btn int" style="background-color: darkslategrey; color: white;">Login</button>
+                        New here? <a routerLink="/MentorRegister">Sign up</a>
+                    </span>
+                    <br />
+                    <span class="colo" style="color: red;">{{user.message}}</span>
+                </form>
+        </div>
+        <div id="admin" class="tab-pane fade">
+            <br><br>
+                <h3>Admin Login</h3>
+                <form (ngSubmit)="onSubmitAdmin(adminusername.value, adminpassword.value)" #loginform="ngForm">
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="adminusername" name="adminusername" placeholder="Your Email *"
+                            ngModel #adminusername="ngModel" />
+                        <!-- <div class="alert alert-danger" *ngIf="username.touched && username.errors.required && username.value!=null">
+                        Username is required
+                    </div> -->
+                    </div>
+                    <div class="form-group">
+                        <input type="password" class="form-control" id="adminpassword" name="adminpassword"
+                            placeholder="Your Password *" ngModel #adminpassword="ngModel" />
+                        <!-- <div class="alert alert-danger" *ngIf="password.touched && password.errors.required">
+                        Password is required
+                    </div> -->
+                    </div>
+                    <span>
+                        <button type="submit" class="btn int" style="background-color: darkslategrey; color: white;">Login</button>
+                        New here? <a routerLink="">Sign up</a>
+                    </span>
+                    <br />
+                    <span class="colo" style="color: red;">{{user.message}}</span>
+                </form>
+        </div>
+    </div>
+</div>
+<notifier-container></notifier-container>
+
+
